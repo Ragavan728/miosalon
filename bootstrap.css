@@ -1,0 +1,166 @@
+.display-4 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.nav-item a {
+    font-size: 1.4rem;
+    color: var(--tertiaryColor);
+}
+
+.nav-item a:hover {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: var(--secondaryColor);
+}
+
+.navSpan {
+    color: var(--secondaryColor);
+}
+
+.hero_img {
+    width: 60rem;
+}
+
+.btn {
+    font-size: 1.6rem;
+    color: var(--lightColor);
+}
+
+.btn:hover {
+    color: var(--lightColor);
+}
+
+.bg {
+    background-color: var(--lightBlue);
+}
+
+.bg-footer {
+    background-color: var(--fourthColoor);
+}
+
+.logo_img {
+    width: 18rem;
+}
+
+.software_img,
+.savecost_img,
+.management_img {
+    width: 110rem;
+}
+
+.expe_img,
+.formImg,
+.automation_img {
+    width: 40rem;
+}
+
+.check_img {
+    width: 1.8rem;
+}
+
+.salon_list_img {
+    width: 4rem;
+}
+
+.card-text {
+    font-size: 1.7rem;
+    color: var(--fifthcolor);
+}
+
+.card-footer {
+    font-size: 1.2rem;
+}
+
+.list a {
+    font-size: 1.3rem;
+    color: var(--darkColor);
+}
+
+.list a:hover {
+    text-decoration: none;
+    background-color: var(--secondaryColor);
+    color: var(--lightColor);
+}
+
+.list-header {
+    font-size: 1.7rem;
+}
+
+.feasLists a {
+    color: var(--primaryColor);
+}
+
+.feasLists a:hover {
+    text-decoration: none;
+}
+
+.lead {
+    font-size: 1.8rem;
+    color: var(--fourthColoor);
+}
+
+.card-body-para {
+    font-size: 1.8rem;
+}
+
+.ratings {
+    width: 30rem;
+}
+
+span {
+    color: #ff0000;
+}
+
+.list-items a {
+    color: var(--lightColor);
+}
+
+.form-group label,
+fieldset {
+    font-size: 1.2rem;
+    color: var(--fourthColoor);
+}
+
+.form-check-input,
+.form-check-label {
+    cursor: pointer;
+}
+
+input,
+.form-control {
+    padding-bottom: 1rem;
+}
+
+.footerLists {
+    color: var(--primaryColor);
+}
+
+.footerLists:hover {
+    text-decoration: none;
+    color: var(--secondaryColor);
+}
+
+.contact_logo {
+    width: 2rem;
+}
+
+.card01 {
+    background-color: var(--card1Color);
+}
+
+.card02 {
+    background-color: var(--card2Color);
+}
+
+.card03 {
+    background-color: var(--card3Color);
+}
+
+.card04 {
+    background-color: var(--card4Color);
+}
+
+.grey {
+    background-color: var(--greyColor);
+}
